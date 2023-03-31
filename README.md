@@ -13,12 +13,14 @@
 
 # Latent Dirichlet Allocation (LDA)
 **Used as a topic modelling technique that can classify text in a document to a particular topic.**
+
 **PyMC Implementation**
 
 ![LDA](https://user-images.githubusercontent.com/37110622/229168888-b1d9405b-4aae-4f23-9a24-6209dcbd6079.png)
 
 # Bayesian Neural Network
 **Neural networks with the ability to quantify the uncertainty in their predictive output.**
+
 **PyMC and Pyro Implementation**
 
 ![bayesian-network](https://user-images.githubusercontent.com/37110622/229172121-9ba7f53f-3726-4a20-b425-73f19f5eaa77.jpg)
